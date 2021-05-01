@@ -5,7 +5,7 @@ I've seen this made everywhere and I wanted to try it myself from zero. #NoDeepL
 ![](./color_detection.gif)
 
 ## 3D Conversion
-![](.rubik3d.gif)
+![](./rubik3d.gif)
 
 ### Special Thanks To...
 [damo-da](https://github.com/damo-da/rubiks-cube) and its amazing 3D representation of the Rubik's Cube which I minimally modified to accomodate my code.
